@@ -2,6 +2,8 @@
 
 This is a Python-based tool to synchronize your documents from a reMarkable tablet using its USB HTTP REST API. It is designed for users who prefer not to use cloud sync due to privacy concerns or who require a completely offline and local solution. The reMarkable API is built in and does not require any modifcation on the reMarkable (like the developer tool settings).
 
+This tool has been tested with the reMarkable Pro (software version 3.16) but should be also compatible with the reMarkable 2.
+
 > **Disclaimer:** This tool is in an early stage of development. Use it at your own risk.
 
 ---
