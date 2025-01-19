@@ -1,0 +1,8 @@
+{
+    "url": "http://10.11.99.1:80",
+    "baseFolder": "./remarkable_sync",
+    "syncDatabase": "remarkable_syncdb.json",
+    "deleteFiles": false,
+    "uploadFiles": false,
+    "rawDocs": false
+}

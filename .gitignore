@@ -1,0 +1,4 @@
+remarkable_sync/*
+*.pyc
+.vscode*
+*.ipynb
