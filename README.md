@@ -76,7 +76,7 @@ Create a `sync_config.json` file in the root directory. Below is an example conf
 ```
 
 - **`url`**: The HTTP API address of your reMarkable tablet.
-- **`baseFolder`**: The local directory where files will be synced.
+- **`baseFolder`**: The local directory where files will be synced. Can be a local path or an absolute path. If you are under Windows, please make sure the path is proper escaped (e.g. c:/users/test_user/Documents/remarkable_sync). Use / instead of \ or use double slashes \\
 - **`syncDatabase`**: Will be used in the future. The file used to track changes for faster syncing.
 
 ---
